@@ -1,0 +1,22 @@
+body {
+  background: #FEF2EE;
+}
+
+ul {
+  padding: 0;
+}
+
+.App {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (min-width: 768px){
+  .App {
+      justify-content: flex-end;
+  }
+}
