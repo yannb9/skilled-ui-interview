@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Hosted
+The project is hosted in heroku
+Please click on the link below to open the app
+[Skilled UI App](https://skilled-ui-app.herokuapp.com/)
+
 ## Project Management
 ### App.js
 [App.js](https://github.com/yannb9/skilled-ui-interview/blob/master/src/App.js) holds two components but oin this case i'm going to call them containers.
